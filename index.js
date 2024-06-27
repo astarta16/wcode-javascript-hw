@@ -1,2 +1,16 @@
-console.log("hello world")
-console.log("hello")
+// N1
+let number = 100;
+
+if(number < 50) {
+    console.log("ნაკლებია 50 ზე")
+} else if(number > 20) {
+    console.log("მეტია 20 ზე")
+} else {
+    console.log("შეცდომა")
+}
+
+// N2
+let name = "mariam";
+console.log(name == "mariam" ? true : false)
+
+// N3
