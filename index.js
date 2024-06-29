@@ -24,5 +24,11 @@ switch(girlName) {
         console.log(false);
 }
 
+// N4
+for(let i=5; i<100; i++) {
+    console.log(i)
+}
+
+// N5
    
 
