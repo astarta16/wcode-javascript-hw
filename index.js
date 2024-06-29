@@ -14,3 +14,15 @@ let name = "mariam";
 console.log(name == "mariam" ? true : false)
 
 // N3
+let girlName = "mariam";
+
+switch(girlName) {
+    case "mariam":
+        console.log(true);
+        break;
+    default:
+        console.log(false);
+}
+
+   
+
