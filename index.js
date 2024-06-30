@@ -30,5 +30,16 @@ for(let i=5; i<100; i++) {
 }
 
 // N5
+
+let array1= [1, 2, 4, -1, -3, 8, 7, 0, -5, 18, 12];
+
+for (let i = 0; i < array1.length; i++) {
+    const element = array1[i];
+    if (element > 0 && element < 10) {
+        console.log(element);
+    }
+}
+
+
    
 
