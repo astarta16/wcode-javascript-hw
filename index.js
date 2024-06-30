@@ -30,7 +30,6 @@ for(let i=5; i<100; i++) {
 }
 
 // N5
-
 let array1= [1, 2, 4, -1, -3, 8, 7, 0, -5, 18, 12];
 
 for (let i = 0; i < array1.length; i++) {
@@ -40,6 +39,12 @@ for (let i = 0; i < array1.length; i++) {
     }
 }
 
+// N6
+let user2 = {
+    name: 'anna',
+    age:  20,
+    studentstatus: 'active'
+}
 
    
 
